@@ -1,0 +1,6 @@
+{
+  "name": "RELAXPRO — Pistola Massageadora Muscular",
+  "description": "Página de vendas de produto único de alta conversão para a Pistola Massageadora Muscular RELAXPRO 6 Velocidades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
